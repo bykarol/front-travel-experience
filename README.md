@@ -47,9 +47,15 @@ VERSIÓN DESKTOP
 <br>
 
 VERSIÓN MÓVIL
+- Menú cerrado
 <br>
+
 ![HomePage-mobile](https://github.com/JonBidezabal/viajesRecomendados/assets/124776420/90979f29-0a1e-4c47-ad09-bfc481ae42ed)
 <br>
+
+- Menú abierto
+<br>
+
 ![HomePage-menu-mobile](https://github.com/JonBidezabal/viajesRecomendados/assets/124776420/9c4366d8-ab00-433f-bb54-57e296fbac30)
 
 
