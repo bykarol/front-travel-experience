@@ -9,6 +9,9 @@ Este es un portal online donde los usuarios pueden escoger viajes, hoteles y exp
 - Permitir a los usuarios agregar reseñas y calificaciones para los viajes.
 - Interacción con usuarios, como inicio de sesión, registro y administración de perfil.
 
+## DEMO VIDEO
+[Ver vídeo del sitio](https://www.loom.com/share/cd220bb5cad942fdb91c23039a259404?sid=d55b0f7d-6f61-4270-9ce3-3ae5b9a3bcbf)
+
 ## ¿CÓMO COMENZAR?
 Para ejecutar el proyecto necesitas:
 <p>
@@ -43,11 +46,10 @@ VERSIÓN DESKTOP
 ![HomePage-desktop](https://github.com/JonBidezabal/viajesRecomendados/assets/124776420/e2ddabb1-6f5a-48a2-bbc9-d4ebe34f6059)
 <br>
 
-
-![HomePage-mobile](https://github.com/JonBidezabal/viajesRecomendados/assets/124776420/90979f29-0a1e-4c47-ad09-bfc481ae42ed)
-
 VERSIÓN MÓVIL
+![HomePage-mobile](https://github.com/JonBidezabal/viajesRecomendados/assets/124776420/90979f29-0a1e-4c47-ad09-bfc481ae42ed)
 <br>
+
 ![HomePage-menu-mobile](https://github.com/JonBidezabal/viajesRecomendados/assets/124776420/9c4366d8-ab00-433f-bb54-57e296fbac30)
 
 
